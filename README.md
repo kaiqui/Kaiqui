@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Oi 👋, eu sou o Kaique Lima</h1>
+<h1 align="center">Oi 👋, eu sou o Kaique</h1>
 <h3 align="center">Apaixonado por Python e tecnologia!</h3>
 
 - 🔭 Atualmente estou trabalhando na **Enginnering do Brasil**
