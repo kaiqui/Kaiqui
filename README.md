@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 Atualmente estou trabalhando na **Enginnering do Brasil**
 
-- 🌱 Atualmente estou aprendendo **Machine Learning, Data Visualization e Docker**
+- 🌱 Atualmente estou aprendendo **AWS, Terraform e K8s**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [kaiqui.github.io/portfolio/](kaiqui.github.io/portfolio/)
 
