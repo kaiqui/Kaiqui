@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 <h1 align="center">Oi 👋, eu sou o Kaique</h1>
 <h3 align="center">Apaixonado por Python e tecnologia!</h3>
 
-- 🔭 Atualmente estou trabalhando na **Enginnering do Brasil**
+- 🔭 Atualmente estou trabalhando no **Pagseguro Pagbank**
 
-- 🌱 Atualmente estou aprendendo **AWS, Terraform e K8s**
+- 🌱 Atualmente estou aprendendo **DevSecOps**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [kaiqui.github.io/portfolio/](kaiqui.github.io/portfolio/)
 
-- 💬 Pergunte-me sobre **Python, Pandas, Flask**
+- 💬 Pergunte-me sobre **Python, Pentest, Microserviços**
 
 - 📫 Como me encontrar **kaiqui82@gmail.com**
 
