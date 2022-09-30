@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 - 💬 Pergunte-me sobre **Python, Pentest, Microserviços e Machine Learning**
 
-- 📫 Como me encontrar **kaiqui82@gmail.com**
-
 - ⚡ Curiosidade **Sou músico multi-instrumentista e pratico jiu-jitsu**
 
 <h3 align="left">Connect with me:</h3>
