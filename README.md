@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [kaiqui.github.io/portfolio/](kaiqui.github.io/portfolio/)
 
-- 💬 Pergunte-me sobre **Python, Pentest, Microserviços**
+- 💬 Pergunte-me sobre **Python, Pentest, Microserviços e Machine Learning**
 
 - 📫 Como me encontrar **kaiqui82@gmail.com**
 
